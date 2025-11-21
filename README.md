@@ -34,7 +34,7 @@ ros2 launch turtlebot4_viz view_robot.launch.py
 ```
 
 # Menjalankan Nav2
-## Menjalankan Lokalization
+## Menjalankan Localization
 ```bash
 source install/setup.bash
 ros2 launch winner1 localization.launch.py
