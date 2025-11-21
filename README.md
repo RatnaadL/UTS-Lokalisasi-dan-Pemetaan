@@ -3,7 +3,7 @@ Ratna Dwi Lestari
 4222201029
 
 
-# Turtlebo4 Navigation dari Point A ke Point B
+# Turtlebot4 Navigation dari Point A ke Point B
 Project ini merupakan tugas ATS mata kuliah Lokalisasi dan Pemetaan RE702, tujuannya adalah menjalankan turtlebot bergerak ke titik A, menyalakan buzzer satu kali, kemudian robot berjalan menuju titik B dan menyalakan buzzer dua kali.
 
 # CARA KERJA
